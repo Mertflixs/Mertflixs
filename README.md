@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-🌱 I’m currently learning Swift ReactNative
+🌱 I’m currently learning ASP.NET CORE
 
 📫 How to reach me **mertalasaha@gmail.com**
 </div>
